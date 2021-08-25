@@ -35,13 +35,13 @@
         <div class="container">
             <nav class="navbar navbar-expand-lg stroke">
                 <h1>
-                    <a class="navbar-brand d-flex align-items-center" href="index.html">
+                    <a class="navbar-brand d-flex align-items-center" href="index.php">
                         <span class="lostyle-1">S</span>
                         poch Studios
                     </a>
                 </h1>
                 <!-- if logo is image enable this   
-    <a class="navbar-brand" href="#index.html">
+    <a class="navbar-brand" href="#index.php">
         <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
     </a> -->
                 <button class="navbar-toggler  collapsed bg-gradient" type="button" data-toggle="collapse"
@@ -54,13 +54,13 @@
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                     <ul class="navbar-nav ml-lg-auto">
                         <li class="nav-item active">
-                            <a class="nav-link" href="index.html">Inicio <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about.html">Nosotros</a>
+                            <a class="nav-link" href="about.php">Nosotros</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="services.html">Servicios</a>
+                            <a class="nav-link" href="services.php">Servicios</a>
                         </li>
                     </ul>
                 </div>
@@ -95,13 +95,13 @@
                 <div class="container">
                     <div class="main-content">
                         <!-- if logo is image enable this   
-                        <a class="logo" href="index.html">
+                        <a class="logo" href="index.php">
                             <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
                         </a> -->
                         <h4>Llevámos a cabo tus ideas de inicio a fín </h4>
                         <p class="mt-3">Implementando nuevos conceptos de desarrollo para 
                             asi brindarte una experiencia <b>visual/operativa</b> totalmente trascendental </p>
-                        <a href="about.html" class="btn btn-style mt-md-5 mt-4">Suena interesante</a>
+                        <a href="about.php" class="btn btn-style mt-md-5 mt-4">Suena interesante</a>
                     </div>
                 </div>
             </div>
@@ -176,13 +176,13 @@
                 <div class="col-lg-4 col-md-6 item">
                     <div class="card">
                         <div class="card-header p-0 position-relative border-0">
-                            <a href="services.html">
+                            <a href="services.php">
                                 <img class="d-block img-responsive" src="assets/images/s4.jpg" alt="card-image">
                             </a>
                         </div>
                         <div class="card-body service-details">
                             <span class="label-style">Trabajamos</span>
-                            <a href="services.html" class="service-heading">Desarrollo web</a>
+                            <a href="services.php" class="service-heading">Desarrollo web</a>
                             <p>Le dedicamos cada segundo a tu proyecto, asi dar resultados en el menor de los tiempos.</p>
                         </div>
                     </div>
@@ -190,13 +190,13 @@
                 <div class="col-lg-4 col-md-6 mt-md-0 mt-4">
                     <div class="card">
                         <div class="card-header p-0 position-relative border-0">
-                            <a href="services.html">
+                            <a href="services.php">
                                 <img class="d-block img-responsive" src="assets/images/s5.jpg" alt="card-image">
                             </a>
                         </div>
                         <div class="card-body service-details">
                             <span class="label-style label-style-2">Negociamos</span>
-                            <a href="services.html" class="service-heading">Contratos rezonables</a>
+                            <a href="services.php" class="service-heading">Contratos rezonables</a>
                             <p>Sómos una empresa que se ajusta al presupuesto de cada cliente, creándo planes que nos favorezcan a todos por igual. </p>
                         </div>
                     </div>
@@ -204,13 +204,13 @@
                 <div class="col-lg-4 col-md-6 mt-lg-0 mt-4">
                     <div class="card">
                         <div class="card-header p-0 position-relative border-0">
-                            <a href="services.html">
+                            <a href="services.php">
                                 <img class="d-block img-responsive" src="assets/images/s2.jpg" alt="card-image">
                             </a>
                         </div>
                         <div class="card-body service-details">
                             <span class="label-style label-style-3">Diseñamos</span>
-                            <a href="services.html" class="service-heading">Marketing Digital</a>
+                            <a href="services.php" class="service-heading">Marketing Digital</a>
                             <p>El diseño web es el complemento más importante del desarrollo wed hoy en día, por eso diseñamos y/o buscamos imágenes que den con la temática de tu negocio.</p>
                         </div>
                     </div>
@@ -323,7 +323,7 @@
                 <h3 class="title-w3l">Sómos tu mejór opción!</h3>
                 <p class="mt-3 text-white">Contámos además con planes de págo personalizados.
                 </p>
-                <a href="services.html" class="btn btn-style mt-4">Acerca de nuestros planes</a>
+                <a href="services.php" class="btn btn-style mt-4">Acerca de nuestros planes</a>
             </div>
         </div>
     </section>
@@ -442,22 +442,22 @@
                 <div class="col-lg-3 col-sm-6 sub-two-right pl-lg-5 mt-sm-0 mt-5">
                     <h6>Nuestros servicios</h6>
                     <ul>
-                        <li><a href="services.html"><span class="fas fa-angle-right mr-2"></span>Diseño web</a>
+                        <li><a href="services.php"><span class="fas fa-angle-right mr-2"></span>Diseño web</a>
                         </li>
-                        <li><a href="services.html"><span class="fas fa-angle-right mr-2"></span>Alojamiento web</a>
+                        <li><a href="services.php"><span class="fas fa-angle-right mr-2"></span>Alojamiento web</a>
                         </li>
-                        <li><a href="services.html"><span class="fas fa-angle-right mr-2"></span>Fotografia Digital</a>
+                        <li><a href="services.php"><span class="fas fa-angle-right mr-2"></span>Fotografia Digital</a>
                         </li>
-                        <li><a href="services.html"><span class="fas fa-angle-right mr-2"></span>Photoshop en HTML</a>
+                        <li><a href="services.php"><span class="fas fa-angle-right mr-2"></span>Photoshop en HTML</a>
                         </li>
                     </ul>
                 </div>
                 <div class="col-lg-2 col-sm-6 sub-two-right mt-lg-0 mt-sm-5 mt-4">
                     <h6>Quick links</h6>
                     <ul>
-                        <li><a href="index.html"><span class="fas fa-angle-right mr-2"></span>Home</a></li>
-                        <li><a href="about.html"><span class="fas fa-angle-right mr-2"></span>About</a></li>
-                        <li><a href="services.html"><span class="fas fa-angle-right mr-2"></span>Services</a></li>
+                        <li><a href="index.php"><span class="fas fa-angle-right mr-2"></span>Home</a></li>
+                        <li><a href="about.php"><span class="fas fa-angle-right mr-2"></span>About</a></li>
+                        <li><a href="services.php"><span class="fas fa-angle-right mr-2"></span>Services</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-sm-6 sub-two-right pl-lg-5 mt-lg-0 mt-sm-5 mt-4">

@@ -63,13 +63,13 @@
         <div class="container">
             <nav class="navbar navbar-expand-lg stroke">
                 <h1>
-                    <a class="navbar-brand d-flex align-items-center" href="index.html">
+                    <a class="navbar-brand d-flex align-items-center" href="index.php">
                         <span class="lostyle-1">S</span>
                         poch Studios
                     </a>
                 </h1>
                 <!-- if logo is image enable this   
-    <a class="navbar-brand" href="#index.html">
+    <a class="navbar-brand" href="#index.php">
         <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
     </a> -->
                 <button class="navbar-toggler  collapsed bg-gradient" type="button" data-toggle="collapse"
@@ -82,13 +82,13 @@
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                     <ul class="navbar-nav ml-lg-auto">
                         <li class="nav-item active">
-                            <a class="nav-link" href="index.html">Inicio <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about.html">Nosotros</a>
+                            <a class="nav-link" href="about.php">Nosotros</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="services.html">Servicios</a>
+                            <a class="nav-link" href="services.">Servicios</a>
                         </li>
                     </ul>
                 </div>
@@ -118,7 +118,7 @@
             <div class="container py-xl-5 py-md-4 mt-5">
                 <h4 class="inner-text-title font-weight-bold mb-sm-2">Servicios</h4>
                 <ul class="breadcrumbs-custom-path">
-                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="index.php">Inicio</a></li>
                     <li class="active"><span class="fa fa-chevron-right mx-2" aria-hidden="true"></span>Servicios</li>
                 </ul>
             </div>
@@ -367,11 +367,11 @@
                             <i class="fas fa-magic"></i>
                         </div>
                         <div class="feature-info mt-3">
-                            <a href="about.html">
+                            <a href="about.php">
                                 <h3 class="feature-titel">Bronce</h3>
                             </a>
                             <p class="feature-text">Ofrecemos cobertura limitada a lo necesário para pequeños empresarios.</p>
-                            <a href="about.html" class="btn btn-style btn-style-normal mt-4">Me interesa</a>
+                            <a href="about.php" class="btn btn-style btn-style-normal mt-4">Me interesa</a>
                         </div>
                     </div>
                 </div>
@@ -381,11 +381,11 @@
                             <i class="fas fa-window-restore"></i>
                         </div>
                         <div class="feature-info mt-3">
-                            <a href="about.html">
+                            <a href="about.php">
                                 <h3 class="feature-titel">Oro</h3>
                             </a>
                             <p class="feature-text">Ofrecemos Hosting y Domínio de bajo costo.</p>
-                            <a href="about.html" class="btn btn-style btn-style-normal mt-4">Me interesa</a>
+                            <a href="about.php" class="btn btn-style btn-style-normal mt-4">Me interesa</a>
                         </div>
                     </div>
                 </div>
@@ -395,11 +395,11 @@
                             <i class="fas fa-edit"></i>
                         </div>
                         <div class="feature-info mt-3">
-                            <a href="about.html">
+                            <a href="about.php">
                                 <h3 class="feature-titel">Diamante</h3>
                             </a>
                             <p class="feature-text">Ofrecemos planes de cobertura mensual.</p>
-                            <a href="about.html" class="btn btn-style btn-style-normal mt-4">Me interesa</a>
+                            <a href="about.php" class="btn btn-style btn-style-normal mt-4">Me interesa</a>
                         </div>
                     </div>
                 </div>
@@ -409,11 +409,11 @@
                             <i class="fas fa-tasks"></i>
                         </div>
                         <div class="feature-info mt-3">
-                            <a href="about.html">
+                            <a href="about.php">
                                 <h3 class="feature-titel">Platino</h3>
                             </a>
                             <p class="feature-text">Ofrecemos planes de cobertura anual.</p>
-                            <a href="about.html" class="btn btn-style btn-style-normal mt-4">Me interesa</a>
+                            <a href="about.php" class="btn btn-style btn-style-normal mt-4">Me interesa</a>
                         </div>
                     </div>
                 </div>
@@ -478,22 +478,22 @@
                 <div class="col-lg-3 col-sm-6 sub-two-right pl-lg-5 mt-sm-0 mt-5">
                     <h6>Nuestros servicios</h6>
                     <ul>
-                        <li><a href="services.html"><span class="fas fa-angle-right mr-2"></span>Diseño web</a>
+                        <li><a href="services.php"><span class="fas fa-angle-right mr-2"></span>Diseño web</a>
                         </li>
-                        <li><a href="services.html"><span class="fas fa-angle-right mr-2"></span>Alojamiento web</a>
+                        <li><a href="services.php"><span class="fas fa-angle-right mr-2"></span>Alojamiento web</a>
                         </li>
-                        <li><a href="services.html"><span class="fas fa-angle-right mr-2"></span>Fotografia Digital</a>
+                        <li><a href="services.php"><span class="fas fa-angle-right mr-2"></span>Fotografia Digital</a>
                         </li>
-                        <li><a href="services.html"><span class="fas fa-angle-right mr-2"></span>Photoshop en HTML</a>
+                        <li><a href="services.php"><span class="fas fa-angle-right mr-2"></span>Photoshop en HTML</a>
                         </li>
                     </ul>
                 </div>
                 <div class="col-lg-2 col-sm-6 sub-two-right mt-lg-0 mt-sm-5 mt-4">
                     <h6>Quick links</h6>
                     <ul>
-                        <li><a href="index.html"><span class="fas fa-angle-right mr-2"></span>Home</a></li>
-                        <li><a href="about.html"><span class="fas fa-angle-right mr-2"></span>About</a></li>
-                        <li><a href="services.html"><span class="fas fa-angle-right mr-2"></span>Services</a></li>
+                        <li><a href="index.php"><span class="fas fa-angle-right mr-2"></span>Home</a></li>
+                        <li><a href="about.php"><span class="fas fa-angle-right mr-2"></span>About</a></li>
+                        <li><a href="services.php"><span class="fas fa-angle-right mr-2"></span>Services</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-sm-6 sub-two-right pl-lg-5 mt-lg-0 mt-sm-5 mt-4">

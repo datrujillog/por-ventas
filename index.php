@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="Spoch, SpochStudios, desarrollo, desarrolladores, Desarrollador, web, diseño, desarrollo web,
     diseño web, Studios, Gabriel García, Diego Trujillo, Gabriel García y Diego Trujillo">
-    <meta name="description" content="Aquí en Spoch Studios, podrás contratar el mejor servicio de desarrollo     web para la creación de tu pagina web o la de tu negocio">
+    <meta name="description" content="Aquí en Spoch Studios, podrás contratar el mejor servicio de desarrollo web para la creación de tu pagina web o la de tu negocio">
     <meta name="author" content="Diego Trujillo Desarrollador Full Stack y Gabriel García desarrollador web"/>
     <meta name="copyright" content="SPOCH STUDIOS"/>
     

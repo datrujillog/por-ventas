@@ -142,8 +142,8 @@
                         </div>
                     </div>
                     <div class="col-lg-6 text-6-info mb-lg-0 mb-5 pl-xl-5 order-lg-last order-first">
-                        <h5 class="small-title-2">Acerca de nosotros</h5>
-                        <h3 class="title-style-2 mb-3">
+                        <h5 class="small-title-2 co">Acerca de nosotros</h5>
+                        <h3 class="title-style-2 mb-3 co">
                             Trabajámos con el objetívo de acerte crecer</h3>
                         <p>Sómos una pequeña sociedad de emprendedores talentosos, desarrolladores; que búscan de ayudarte a crecér a nivel profesional y hacer crecér tu negócio, tu marcar.
                            <br>
@@ -302,12 +302,12 @@
                     <img src="assets/images/img.jpg" alt="" class="img-responsive img-fluid" id="img">
                 </div>
                 <div class="col-lg-6 mt-lg-0 mt-5">
-                    <h5 class="small-title-2">Nuestras Destresas</h5>
-                    <h3 class="title-style-2 mb-2">
+                    <h5 class="small-title-2 co">Nuestras Destresas</h5>
+                    <h3 class="title-style-2 mb-2 co">
                         Nuestras destresas vienes por todos lados</h3>
                     <div class="skills-bars mt-5">
                         <div class="progress-info">
-                            <h6 class="progress-tittle">Web Design
+                            <h6 class="progress-tittle co">Web Design
                             </h6>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 80%"
